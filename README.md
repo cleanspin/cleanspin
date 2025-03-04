@@ -1,17 +1,17 @@
 <h1 align="left">
-Hi, I'm Cleanspin!
-	<a href="https://github.com/cleanspin" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
+  Hi, I'm Cleanspin!
+  <a href="https://github.com/cleanspin" target="_self">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  </a>
 </h1>
 
 <br/>
+
 <p align="left">
-	<a href="https://github.com/cleanspin">
-		<img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Impact&weight=800&duration=1000&color=F77602&vCenter=true&multiline=true&repeat=false&width=435&height=200&lines=___________________________;Data;scientist%2Fengineer%2Fanalyst;___________________________;Python+developer;___________________________;Linux+enthusiast">
+  <a href="https://github.com/cleanspin">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Impact&amp;weight=800&amp;duration=1000&amp;color=F77602&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=435&amp;height=200&amp;lines=___________________________;Data;scientist%2Fengineer%2Fanalyst;___________________________;Python+developer;___________________________;Linux+enthusiast" alt="Typing SVG">
   </a>
 </p>
-
 
 
 <hr>
